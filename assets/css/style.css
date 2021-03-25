@@ -159,7 +159,7 @@ span {
 }
 
 #header #logo h1 a span {
-  color: #faf608;
+  color: #142aee;
 }
 
 #header #logo img {
@@ -544,11 +544,11 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Breadcrumbs
+# Breadcrumbs 
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 20px 0;
-  background-color: #f5fbf3;
+  background-color: #fffb29;
   min-height: 40px;
   margin-top: 82px;
 }
@@ -749,7 +749,7 @@ section {
 /* Video Section
 --------------------------------*/
 #video {
-  background: url(../img/video-bg.jpg) center center;
+  background: url(../img/e-raket_vid.png) center center;
   background-repeat: no-repeat;
   background-size: cover;
   height: 400px;
